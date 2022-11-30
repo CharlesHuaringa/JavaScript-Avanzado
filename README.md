@@ -1,2 +1,2 @@
 # JavaScript-Avanzado
-Ejercicios JavaScript S1
+Ejercicios JavaScript Avanzado
